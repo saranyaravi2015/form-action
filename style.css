@@ -1,0 +1,17 @@
+main{
+    font-size:1rem;
+    font-weight: bold;
+}
+input,select{
+    min-width: 20em;
+    min-height: 1.5em;
+    padding: 3px;
+    margin:10px 0 10px 0;
+}
+button{
+    margin:1em 5em;
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 5px;
+    border:none;
+}
